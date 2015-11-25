@@ -1,0 +1,14 @@
+{
+  "name": "NodeStuff",
+  "version": "0.0.0",
+  "description": "NodeStuff",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon app.js"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "MCH",
+  "license": "GNU"
+}

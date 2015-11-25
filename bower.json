@@ -1,0 +1,20 @@
+{
+  "name": "NodeStuff",
+  "version": "0.0.0",
+  "authors": [
+    "Michael Horstmann <MHorstmann15228@gmail.com>"
+  ],
+  "description": "NodeStuff",
+  "main": "app.js",
+  "moduleType": [
+    "node"
+  ],
+  "license": "GNU",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
